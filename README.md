@@ -125,7 +125,7 @@ http://<your-ec2-public-ip>
 e.g. http://54.205.143.172/
 
 ```
-
+Finished work is captured in the screenshot.
 ---
 
 ## 📊 Project Summary
