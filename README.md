@@ -64,8 +64,7 @@ VPC CIDR: 10.0.0.0/16
 
 #### 3️⃣ Create and Attach an Internet Gateway
 
-* Create and Attached IGW to the custom VPC.
-created hng-igw and attached it to custom vpc hng-vpc
+* Created hng-igw and attached it to custom vpc hng-vpc
 
 #### 4️⃣ Configure Route Table
 
