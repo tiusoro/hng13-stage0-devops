@@ -162,10 +162,3 @@ e.g. http://54.205.143.172/
 ```
 
 ---
-
-When pasting into GitHub:
-- Replace `[Your Full Name]` and `[Your Slack Handle]` with your actual details.  
-- Make sure your image path (`./Images/1.%20nginx-server.png`) matches your repo structure.  
-
-Would you like me to add a **GitHub badge section** (e.g., AWS, DevOps, CI/CD, etc.) or a **table of contents** to make it look more professional on your repo?
-```
