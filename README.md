@@ -1,4 +1,3 @@
----
 
 ````markdown
 # 🚀 Deploy an NGINX Web Server on AWS
@@ -161,4 +160,3 @@ e.g. http://54.205.143.172/
 
 ```
 
----
